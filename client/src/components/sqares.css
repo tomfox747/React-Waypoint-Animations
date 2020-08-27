@@ -1,0 +1,66 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+.rotationContainer{
+    position:absolute;
+    display:flex;
+    align-items: center;
+}
+.sq1{
+    display:flex;
+    align-self: center;
+    width:30px;
+    height:30px;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color:black;
+}
+.sq2{
+    display:flex;
+    align-self: center;
+    width:60px;
+    height:60px;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color: white;
+}
+.sq3{
+    display:flex;
+    align-self: center;
+    width:110px;
+    height:110px;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color:black
+}
+.sq4{
+    display:flex;
+    align-self: center;
+    width:200px;
+    height:200px;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color:white;
+}
+.sq5{
+    display:flex;
+    align-self: center;
+    width:300px;
+    height:300px;
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color:black;
+}
